@@ -1,7 +1,10 @@
 #include <stdio.h>
 #include <string.h>
 
-
+//.,-~:;=!*#$@ = donut traditionelle
+//000000000000 = donut de 0
+//010101010101 = donut de binaire
+//DHDHDHDHDHDH = donut de dh
 int main() {
     int k;
     double sin(),cos();
